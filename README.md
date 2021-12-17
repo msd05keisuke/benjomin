@@ -2,13 +2,15 @@
 
 # 作成するに至った背景
 
-- 開いているトイレを知りたい
+- 開いているトイレを知りたい<br>
 ![hatena](https://user-images.githubusercontent.com/75054606/146580015-057a9326-fd7c-44c1-a5bd-04c4d65468a7.png)
+<br>
 
+- こもりスマホ<br>
 
-- こもりスマホ
 ![yamete](https://user-images.githubusercontent.com/75054606/146580010-7d6501f4-f8e2-4f26-91d7-74e74845bd30.png)
-  
+  <br>
+
 
 # Leafony構成(上から順に)
 - AI02 SP&PIR

@@ -7,9 +7,10 @@
 <br>
 
 - こもりスマホやめて<br>
-
 ![yamete](https://user-images.githubusercontent.com/75054606/146580010-7d6501f4-f8e2-4f26-91d7-74e74845bd30.png)
-  <br>
+<br>
+
+<h2 style="color: red">二つの課題を解決するのがベンジョミン！！</h2>
 
 
 # Leafony構成(上から順に)
